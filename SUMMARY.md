@@ -9,7 +9,8 @@
    * [Updating Objects In Riak](5.md)
    * [Deleting Objects From Riak](6.md)
    * [Working With Complex Objects](7.md)
-   * [Next Steps](8.md)
+   * [Cleanup](8.md)
+   * [Next Steps](9.md)
 * A Taste of Querying
    * [Prerequisites](9.md)
    * [A Quick Note on Querying and Schemas](10.md)
