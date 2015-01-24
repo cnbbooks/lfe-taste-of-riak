@@ -1,7 +1,6 @@
 # Summary
 
-* [Cover](https://www.gitbook.com/cover/book/billo/lfe-taste-of-riak.jpg)
-* [Introduction](README.md)
+[Cover](https://www.gitbook.com/cover/book/billo/lfe-taste-of-riak.jpg)
 * [CRUD Operations](ch1/README.md)
    * [Prerequisites](ch1/1.md)
    * [Client Setup](ch1/2.md)
