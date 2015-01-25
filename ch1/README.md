@@ -1,1 +1,1 @@
-# Chapter 1 - CRED Operations
+# Chapter 1 - CRUD Operations
