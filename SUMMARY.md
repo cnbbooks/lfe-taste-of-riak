@@ -19,6 +19,7 @@
      * [Working with Records in Riak](ch2/6.md)
    * [Secondary Indexes](ch2/7.md)
 * [Object Modeling](ch3/README.md)
-   * [Buckets and keys revisited](ch3/1.md)
-   * [Keeping our story straight with repositories](ch3/2.md)
+   * [Example Code](ch3/1.md)
+   * [Buckets and Keys Revisited](ch3/2.md)
+   * [Keeping Our Story Straight with Repositories](ch3/3.md)
 
